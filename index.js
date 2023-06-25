@@ -1,7 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const app = express();
-let { getGoogleAdsData } = require('../services/getGoogleAds')
+let { getGoogleAdsData } = require('./src/services/getGoogleAds')
 
 // Middleware to parse request body
 app.use(bodyParser.json()); // Parse JSON bodies
