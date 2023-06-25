@@ -1,0 +1,273 @@
+{
+  "results": [
+    {
+      "campaign": {
+        "resourceName": "customers/1335200406/campaigns/19691740314",
+        "id": "19691740314"
+      },
+      "metrics": {
+        "clicks": "8",
+        "conversionsValue": 0,
+        "conversions": 0,
+        "costMicros": "17510030",
+        "ctr": 0.01282051282051282,
+        "engagementRate": 0,
+        "averageCost": 2188753.75,
+        "averageCpc": 2188753.75,
+        "impressions": "624",
+        "interactionRate": 0.01282051282051282
+      },
+      "campaignBudget": {
+        "resourceName": "customers/1335200406/campaignBudgets/12358274867",
+        "period": "DAILY"
+      },
+      "segments": {
+        "device": "DESKTOP",
+        "adNetworkType": "MIXED",
+        "slot": "MIXED",
+        "date": "2023-05-01"
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/1335200406/campaigns/19691740314",
+        "id": "19691740314"
+      },
+      "metrics": {
+        "clicks": "159",
+        "conversionsValue": 2299.193252,
+        "conversions": 1.001648,
+        "costMicros": "433486842",
+        "costPerConversion": 432773631.05601966,
+        "ctr": 0.013237865290150695,
+        "engagementRate": 0.046728971962616821,
+        "averageCost": 2643212.4512195121,
+        "averageCpc": 2726332.3396226414,
+        "impressions": "12011",
+        "interactionRate": 0.013654150362168013
+      },
+      "campaignBudget": {
+        "resourceName": "customers/1335200406/campaignBudgets/12358274867",
+        "period": "DAILY"
+      },
+      "segments": {
+        "device": "MOBILE",
+        "adNetworkType": "MIXED",
+        "slot": "MIXED",
+        "date": "2023-05-01"
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/1335200406/campaigns/19691740314",
+        "id": "19691740314"
+      },
+      "metrics": {
+        "clicks": "0",
+        "conversionsValue": 0,
+        "conversions": 0,
+        "costMicros": "0",
+        "ctr": 0,
+        "impressions": "35",
+        "interactionRate": 0
+      },
+      "campaignBudget": {
+        "resourceName": "customers/1335200406/campaignBudgets/12358274867",
+        "period": "DAILY"
+      },
+      "segments": {
+        "device": "TABLET",
+        "adNetworkType": "MIXED",
+        "slot": "MIXED",
+        "date": "2023-05-01"
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/1335200406/campaigns/19699412350",
+        "id": "19699412350"
+      },
+      "metrics": {
+        "clicks": "35",
+        "conversionsValue": 692.071848,
+        "conversions": 0.757752,
+        "costMicros": "115610000",
+        "costPerConversion": 152569706.18355346,
+        "ctr": 0.64814814814814814,
+        "averageCost": 3303142.8571428573,
+        "averageCpc": 3303142.8571428573,
+        "impressions": "54",
+        "interactionRate": 0.64814814814814814
+      },
+      "campaignBudget": {
+        "resourceName": "customers/1335200406/campaignBudgets/12362796225",
+        "period": "DAILY"
+      },
+      "segments": {
+        "device": "DESKTOP",
+        "adNetworkType": "SEARCH",
+        "slot": "SEARCH_TOP",
+        "date": "2023-05-01"
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/1335200406/campaigns/19699412350",
+        "id": "19699412350"
+      },
+      "metrics": {
+        "clicks": "0",
+        "conversionsValue": 0,
+        "conversions": 0,
+        "costMicros": "0",
+        "ctr": 0,
+        "impressions": "20",
+        "interactionRate": 0
+      },
+      "campaignBudget": {
+        "resourceName": "customers/1335200406/campaignBudgets/12362796225",
+        "period": "DAILY"
+      },
+      "segments": {
+        "device": "DESKTOP",
+        "adNetworkType": "SEARCH",
+        "slot": "SEARCH_OTHER",
+        "date": "2023-05-01"
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/1335200406/campaigns/19699412350",
+        "id": "19699412350"
+      },
+      "metrics": {
+        "clicks": "338",
+        "conversionsValue": 9350.1,
+        "conversions": 6,
+        "costMicros": "1809790000",
+        "costPerConversion": 301631666.66666669,
+        "ctr": 0.3836549375709421,
+        "averageCost": 5354408.2840236686,
+        "averageCpc": 5354408.2840236686,
+        "impressions": "881",
+        "interactionRate": 0.3836549375709421
+      },
+      "campaignBudget": {
+        "resourceName": "customers/1335200406/campaignBudgets/12362796225",
+        "period": "DAILY"
+      },
+      "segments": {
+        "device": "MOBILE",
+        "adNetworkType": "SEARCH",
+        "slot": "SEARCH_TOP",
+        "date": "2023-05-01"
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/1335200406/campaigns/19699412350",
+        "id": "19699412350"
+      },
+      "metrics": {
+        "clicks": "7",
+        "conversionsValue": 0,
+        "conversions": 0,
+        "costMicros": "53390000",
+        "ctr": 0.07,
+        "averageCost": 7627142.8571428573,
+        "averageCpc": 7627142.8571428573,
+        "impressions": "100",
+        "interactionRate": 0.07
+      },
+      "campaignBudget": {
+        "resourceName": "customers/1335200406/campaignBudgets/12362796225",
+        "period": "DAILY"
+      },
+      "segments": {
+        "device": "MOBILE",
+        "adNetworkType": "SEARCH",
+        "slot": "SEARCH_OTHER",
+        "date": "2023-05-01"
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/1335200406/campaigns/19699412350",
+        "id": "19699412350"
+      },
+      "metrics": {
+        "clicks": "1",
+        "conversionsValue": 0,
+        "conversions": 0,
+        "costMicros": "16250000",
+        "ctr": 0.25,
+        "averageCost": 16250000,
+        "averageCpc": 16250000,
+        "impressions": "4",
+        "interactionRate": 0.25
+      },
+      "campaignBudget": {
+        "resourceName": "customers/1335200406/campaignBudgets/12362796225",
+        "period": "DAILY"
+      },
+      "segments": {
+        "device": "TABLET",
+        "adNetworkType": "SEARCH",
+        "slot": "SEARCH_TOP",
+        "date": "2023-05-01"
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/1335200406/campaigns/19699412350",
+        "id": "19699412350"
+      },
+      "metrics": {
+        "clicks": "0",
+        "conversionsValue": 0,
+        "conversions": 0,
+        "costMicros": "0",
+        "ctr": 0,
+        "impressions": "4",
+        "interactionRate": 0
+      },
+      "campaignBudget": {
+        "resourceName": "customers/1335200406/campaignBudgets/12362796225",
+        "period": "DAILY"
+      },
+      "segments": {
+        "device": "DESKTOP",
+        "adNetworkType": "SEARCH_PARTNERS",
+        "slot": "SEARCH_PARTNER_OTHER",
+        "date": "2023-05-01"
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/1335200406/campaigns/19699412350",
+        "id": "19699412350"
+      },
+      "metrics": {
+        "clicks": "2",
+        "conversionsValue": 0,
+        "conversions": 0,
+        "costMicros": "7310000",
+        "ctr": 0.020408163265306121,
+        "averageCost": 3655000,
+        "averageCpc": 3655000,
+        "impressions": "98",
+        "interactionRate": 0.020408163265306121
+      },
+      "campaignBudget": {
+        "resourceName": "customers/1335200406/campaignBudgets/12362796225",
+        "period": "DAILY"
+      },
+      "segments": {
+        "device": "MOBILE",
+        "adNetworkType": "SEARCH_PARTNERS",
+        "slot": "SEARCH_PARTNER_OTHER",
+        "date": "2023-05-01"
+      }
+    }
+  ]
+}

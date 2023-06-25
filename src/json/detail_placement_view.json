@@ -1,0 +1,36 @@
+{
+    "results": [
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19691740314",
+                "id": "19691740314"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/144819514974",
+                "id": "144819514974"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "96612",
+                "engagements": "1",
+                "impressions": "1",
+                "interactions": "1"
+            },
+            "segments": {
+                "date": "2023-05-01"
+            },
+            "detailPlacementView": {
+                "resourceName": "customers/1335200406/detailPlacementViews/144819514974~ODlfZkpTVnBobkxHbk0",
+                "placementType": "YOUTUBE_VIDEO",
+                "placement": "fJSVphnLGnM",
+                "displayName": "रामायण कथा - सीता माता धरती की गोद में समाई - Mata Sita Descends Into Mother Earth",
+                "groupPlacementTargetUrl": "youtube.com/channel/UCFMFB7_Ik8jBnCwSuh295wA",
+                "targetUrl": "youtube.com/video/fJSVphnLGnM"
+            }
+        }
+    ],
+    "fieldMask": "campaign.id,adGroup.id,metrics.costPerConversion,detailPlacementView.placement,detailPlacementView.placementType,detailPlacementView.displayName,detailPlacementView.groupPlacementTargetUrl,detailPlacementView.resourceName,detailPlacementView.targetUrl,metrics.valuePerConversion,metrics.interactions,metrics.impressions,metrics.engagements,metrics.conversionsValue,metrics.conversions,metrics.clicks,metrics.costMicros,segments.date",
+    "requestId": "FREiudZqBS6h__Zu4V-AJg"
+}

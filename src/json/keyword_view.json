@@ -1,0 +1,3202 @@
+{
+    "results": [
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "3",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "1410000",
+                "ctr": 0.75,
+                "averageCost": 470000,
+                "averageCpc": 470000,
+                "impressions": "4",
+                "interactionRate": 0.75
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~297830005387",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti kurtis"
+                },
+                "criterionId": "297830005387"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~297830005387"
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "25",
+                "conversionsValue": 692.071848,
+                "conversions": 0.757752,
+                "costMicros": "67230000",
+                "costPerConversion": 88722959.490704089,
+                "ctr": 0.78125,
+                "averageCost": 2689200,
+                "averageCpc": 2689200,
+                "impressions": "32",
+                "interactionRate": 0.78125
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~298657580543",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "EXACT",
+                    "text": "rangriti"
+                },
+                "criterionId": "298657580543"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~298657580543"
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "470000",
+                "ctr": 0.5,
+                "averageCost": 470000,
+                "averageCpc": 470000,
+                "impressions": "2",
+                "interactionRate": 0.5
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199030635",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti brand"
+                },
+                "criterionId": "299199030635"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199030635"
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "43210000",
+                "ctr": 0.5,
+                "averageCost": 43210000,
+                "averageCpc": 43210000,
+                "impressions": "2",
+                "interactionRate": 0.5
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199030915",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti clothing"
+                },
+                "criterionId": "299199030915"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199030915"
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "470000",
+                "ctr": 0.5,
+                "averageCost": 470000,
+                "averageCpc": 470000,
+                "impressions": "2",
+                "interactionRate": 0.5
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199033555",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti online"
+                },
+                "criterionId": "299199033555"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199033555"
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "470000",
+                "ctr": 1,
+                "averageCost": 470000,
+                "averageCpc": 470000,
+                "impressions": "1",
+                "interactionRate": 1
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~343213307909",
+                "qualityInfo": {
+                    "creativeQualityScore": "AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 9
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti kurta"
+                },
+                "criterionId": "343213307909"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~343213307909"
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "2",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "1880000",
+                "ctr": 0.33333333333333331,
+                "averageCost": 940000,
+                "averageCpc": 940000,
+                "impressions": "6",
+                "interactionRate": 0.33333333333333331
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1829442126387",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "www rangriti com new arrivals"
+                },
+                "criterionId": "1829442126387"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1829442126387"
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "470000",
+                "ctr": 0.2,
+                "averageCost": 470000,
+                "averageCpc": 470000,
+                "impressions": "5",
+                "interactionRate": 0.2
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1942260335982",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti com online"
+                },
+                "criterionId": "1942260335982"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1942260335982"
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "34",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "62010000",
+                "ctr": 0.40476190476190477,
+                "averageCost": 1823823.5294117648,
+                "averageCpc": 1823823.5294117648,
+                "impressions": "84",
+                "interactionRate": 0.40476190476190477
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~297830005387",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti kurtis"
+                },
+                "criterionId": "297830005387"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~297830005387"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "5",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~297980597005",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti kurtas online"
+                },
+                "criterionId": "297980597005"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~297980597005"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "109",
+                "conversionsValue": 6243.1,
+                "conversions": 4,
+                "costMicros": "130720000",
+                "costPerConversion": 32680000,
+                "ctr": 0.58602150537634412,
+                "averageCost": 1199266.0550458715,
+                "averageCpc": 1199266.0550458715,
+                "impressions": "186",
+                "interactionRate": 0.58602150537634412
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~298657580543",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "EXACT",
+                    "text": "rangriti"
+                },
+                "criterionId": "298657580543"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~298657580543"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "6",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "56630000",
+                "ctr": 0.1875,
+                "averageCost": 9438333.333333334,
+                "averageCpc": 9438333.333333334,
+                "impressions": "32",
+                "interactionRate": 0.1875
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199030635",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti brand"
+                },
+                "criterionId": "299199030635"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199030635"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "8",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "77020000",
+                "ctr": 0.23529411764705882,
+                "averageCost": 9627500,
+                "averageCpc": 9627500,
+                "impressions": "34",
+                "interactionRate": 0.23529411764705882
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199030915",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti clothing"
+                },
+                "criterionId": "299199030915"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199030915"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "11340000",
+                "ctr": 0.33333333333333331,
+                "averageCost": 11340000,
+                "averageCpc": 11340000,
+                "impressions": "3",
+                "interactionRate": 0.33333333333333331
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199031115",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti collection"
+                },
+                "criterionId": "299199031115"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199031115"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "4",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "16010000",
+                "ctr": 0.5714285714285714,
+                "averageCost": 4002500,
+                "averageCpc": 4002500,
+                "impressions": "7",
+                "interactionRate": 0.5714285714285714
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199033275",
+                "qualityInfo": {
+                    "creativeQualityScore": "AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 9
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti new arrivals"
+                },
+                "criterionId": "299199033275"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199033275"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "8",
+                "conversionsValue": 1608,
+                "conversions": 1,
+                "costMicros": "150910000",
+                "costPerConversion": 150910000,
+                "ctr": 0.33333333333333331,
+                "averageCost": 18863750,
+                "averageCpc": 18863750,
+                "impressions": "24",
+                "interactionRate": 0.33333333333333331
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199033555",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti online"
+                },
+                "criterionId": "299199033555"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199033555"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "3",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "13830000",
+                "ctr": 0.5,
+                "averageCost": 4610000,
+                "averageCpc": 4610000,
+                "impressions": "6",
+                "interactionRate": 0.5
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199033995",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti sale"
+                },
+                "criterionId": "299199033995"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199033995"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "22",
+                "conversionsValue": 1499,
+                "conversions": 1,
+                "costMicros": "178390000",
+                "costPerConversion": 178390000,
+                "ctr": 0.45833333333333331,
+                "averageCost": 8108636.3636363633,
+                "averageCpc": 8108636.3636363633,
+                "impressions": "48",
+                "interactionRate": 0.45833333333333331
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~318567129053",
+                "qualityInfo": {
+                    "creativeQualityScore": "AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 9
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti suit set"
+                },
+                "criterionId": "318567129053"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~318567129053"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "68",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "575720000",
+                "ctr": 0.44155844155844154,
+                "averageCost": 8466470.5882352944,
+                "averageCpc": 8466470.5882352944,
+                "impressions": "154",
+                "interactionRate": 0.44155844155844154
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~343213307909",
+                "qualityInfo": {
+                    "creativeQualityScore": "AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 9
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti kurta"
+                },
+                "criterionId": "343213307909"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~343213307909"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "2",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "4220000",
+                "ctr": 0.13333333333333333,
+                "averageCost": 2110000,
+                "averageCpc": 2110000,
+                "impressions": "15",
+                "interactionRate": 0.13333333333333333
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~366369586735",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti dresses"
+                },
+                "criterionId": "366369586735"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~366369586735"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "18",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "230540000",
+                "ctr": 0.4,
+                "averageCost": 12807777.777777778,
+                "averageCpc": 12807777.777777778,
+                "impressions": "45",
+                "interactionRate": 0.4
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~869011425827",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti kurta set"
+                },
+                "criterionId": "869011425827"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~869011425827"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "940000",
+                "ctr": 0.5,
+                "averageCost": 940000,
+                "averageCpc": 940000,
+                "impressions": "2",
+                "interactionRate": 0.5
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1023591955426",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti summer collection"
+                },
+                "criterionId": "1023591955426"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1023591955426"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "4",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "7330000",
+                "ctr": 0.44444444444444442,
+                "averageCost": 1832500,
+                "averageCpc": 1832500,
+                "impressions": "9",
+                "interactionRate": 0.44444444444444442
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1024672090248",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti kurta sets"
+                },
+                "criterionId": "1024672090248"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1024672090248"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "3790000",
+                "ctr": 1,
+                "averageCost": 3790000,
+                "averageCpc": 3790000,
+                "impressions": "1",
+                "interactionRate": 1
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1024672090528",
+                "qualityInfo": {
+                    "creativeQualityScore": "AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 9
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti latest collection"
+                },
+                "criterionId": "1024672090528"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1024672090528"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "3",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1024672090768",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti yellow kurta"
+                },
+                "criterionId": "1024672090768"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1024672090768"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "5",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "44940000",
+                "ctr": 0.41666666666666669,
+                "averageCost": 8988000,
+                "averageCpc": 8988000,
+                "impressions": "12",
+                "interactionRate": 0.41666666666666669
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1297830726623",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti suits"
+                },
+                "criterionId": "1297830726623"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1297830726623"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "6550000",
+                "ctr": 1,
+                "averageCost": 6550000,
+                "averageCpc": 6550000,
+                "impressions": "1",
+                "interactionRate": 1
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1442992745948",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 6
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti chikankari"
+                },
+                "criterionId": "1442992745948"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1442992745948"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "1",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1639341038297",
+                "qualityInfo": {
+                    "creativeQualityScore": "AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 9
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti maxi dress"
+                },
+                "criterionId": "1639341038297"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1639341038297"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "14",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "82620000",
+                "ctr": 0.090909090909090912,
+                "averageCost": 5901428.5714285718,
+                "averageCpc": 5901428.5714285718,
+                "impressions": "154",
+                "interactionRate": 0.090909090909090912
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1829442126387",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "www rangriti com new arrivals"
+                },
+                "criterionId": "1829442126387"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1829442126387"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "6",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "19510000",
+                "ctr": 0.5,
+                "averageCost": 3251666.6666666665,
+                "averageCpc": 3251666.6666666665,
+                "impressions": "12",
+                "interactionRate": 0.5
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1833850197728",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti kurta set online"
+                },
+                "criterionId": "1833850197728"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1833850197728"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "2",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1883137743059",
+                "qualityInfo": {
+                    "creativeQualityScore": "AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 9
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti leggings"
+                },
+                "criterionId": "1883137743059"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1883137743059"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "1560000",
+                "ctr": 0.5,
+                "averageCost": 1560000,
+                "averageCpc": 1560000,
+                "impressions": "2",
+                "interactionRate": 0.5
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1884078922255",
+                "qualityInfo": {
+                    "creativeQualityScore": "AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 9
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti purple kurta"
+                },
+                "criterionId": "1884078922255"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1884078922255"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "2",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1884119679751",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti pants"
+                },
+                "criterionId": "1884119679751"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1884119679751"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "9270000",
+                "ctr": 0.1111111111111111,
+                "averageCost": 9270000,
+                "averageCpc": 9270000,
+                "impressions": "9",
+                "interactionRate": 0.1111111111111111
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1906480007434",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti dupatta"
+                },
+                "criterionId": "1906480007434"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1906480007434"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "21",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "125940000",
+                "ctr": 0.77777777777777779,
+                "averageCost": 5997142.8571428573,
+                "averageCpc": 5997142.8571428573,
+                "impressions": "27",
+                "interactionRate": 0.77777777777777779
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1942260335982",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti com online"
+                },
+                "criterionId": "1942260335982"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1942260335982"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "1",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1942260336142",
+                "qualityInfo": {
+                    "creativeQualityScore": "AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 9
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti dresses online shopping"
+                },
+                "criterionId": "1942260336142"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1942260336142"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "1",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199033995",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti sale"
+                },
+                "criterionId": "299199033995"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199033995"
+            },
+            "segments": {
+                "device": "TABLET",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "16250000",
+                "ctr": 1,
+                "averageCost": 16250000,
+                "averageCpc": 16250000,
+                "impressions": "1",
+                "interactionRate": 1
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~343213307909",
+                "qualityInfo": {
+                    "creativeQualityScore": "AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 9
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti kurta"
+                },
+                "criterionId": "343213307909"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~343213307909"
+            },
+            "segments": {
+                "device": "TABLET",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "2",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1829442126387",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "www rangriti com new arrivals"
+                },
+                "criterionId": "1829442126387"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1829442126387"
+            },
+            "segments": {
+                "device": "TABLET",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "1",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~297830005387",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti kurtis"
+                },
+                "criterionId": "297830005387"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~297830005387"
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "1",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~343213307909",
+                "qualityInfo": {
+                    "creativeQualityScore": "AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 9
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti kurta"
+                },
+                "criterionId": "343213307909"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~343213307909"
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "17",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1829442126387",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "www rangriti com new arrivals"
+                },
+                "criterionId": "1829442126387"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1829442126387"
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "1",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1942260336142",
+                "qualityInfo": {
+                    "creativeQualityScore": "AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 9
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti dresses online shopping"
+                },
+                "criterionId": "1942260336142"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1942260336142"
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "740000",
+                "ctr": 0.125,
+                "averageCost": 740000,
+                "averageCpc": 740000,
+                "impressions": "8",
+                "interactionRate": 0.125
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~297830005387",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti kurtis"
+                },
+                "criterionId": "297830005387"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~297830005387"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "3",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~297980597005",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti kurtas online"
+                },
+                "criterionId": "297980597005"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~297980597005"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "4",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~298657580543",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "EXACT",
+                    "text": "rangriti"
+                },
+                "criterionId": "298657580543"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~298657580543"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "3830000",
+                "ctr": 0.16666666666666666,
+                "averageCost": 3830000,
+                "averageCpc": 3830000,
+                "impressions": "6",
+                "interactionRate": 0.16666666666666666
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199030635",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti brand"
+                },
+                "criterionId": "299199030635"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199030635"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "8",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199030915",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti clothing"
+                },
+                "criterionId": "299199030915"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199030915"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "1",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199031115",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti collection"
+                },
+                "criterionId": "299199031115"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199031115"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "7870000",
+                "ctr": 0.33333333333333331,
+                "averageCost": 7870000,
+                "averageCpc": 7870000,
+                "impressions": "3",
+                "interactionRate": 0.33333333333333331
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199033555",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti online"
+                },
+                "criterionId": "299199033555"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199033555"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "2",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199033995",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti sale"
+                },
+                "criterionId": "299199033995"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199033995"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "2",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "1880000",
+                "ctr": 1,
+                "averageCost": 940000,
+                "averageCpc": 940000,
+                "impressions": "2",
+                "interactionRate": 1
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~318567129053",
+                "qualityInfo": {
+                    "creativeQualityScore": "AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 9
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti suit set"
+                },
+                "criterionId": "318567129053"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~318567129053"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "2",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "39070000",
+                "ctr": 0.076923076923076927,
+                "averageCost": 19535000,
+                "averageCpc": 19535000,
+                "impressions": "26",
+                "interactionRate": 0.076923076923076927
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~343213307909",
+                "qualityInfo": {
+                    "creativeQualityScore": "AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 9
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti kurta"
+                },
+                "criterionId": "343213307909"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~343213307909"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "4",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~366369586735",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti dresses"
+                },
+                "criterionId": "366369586735"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~366369586735"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "4",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~869011425827",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti kurta set"
+                },
+                "criterionId": "869011425827"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~869011425827"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "2",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1297830726623",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti suits"
+                },
+                "criterionId": "1297830726623"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1297830726623"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "24",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1829442126387",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "www rangriti com new arrivals"
+                },
+                "criterionId": "1829442126387"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1829442126387"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "1",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1883137743059",
+                "qualityInfo": {
+                    "creativeQualityScore": "AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 9
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti leggings"
+                },
+                "criterionId": "1883137743059"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1883137743059"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "2",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1942260335982",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti com online"
+                },
+                "criterionId": "1942260335982"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1942260335982"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "2",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~297830005387",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti kurtis"
+                },
+                "criterionId": "297830005387"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~297830005387"
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "1",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199030635",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti brand"
+                },
+                "criterionId": "299199030635"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199030635"
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "1",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~869011425827",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti kurta set"
+                },
+                "criterionId": "869011425827"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~869011425827"
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "23",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~297830005387",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti kurtis"
+                },
+                "criterionId": "297830005387"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~297830005387"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "20",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~298657580543",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "EXACT",
+                    "text": "rangriti"
+                },
+                "criterionId": "298657580543"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~298657580543"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "5",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199030635",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti brand"
+                },
+                "criterionId": "299199030635"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199030635"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "9",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199030915",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti clothing"
+                },
+                "criterionId": "299199030915"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199030915"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "5",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199031115",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti collection"
+                },
+                "criterionId": "299199031115"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199031115"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "4",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~299199033555",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti online"
+                },
+                "criterionId": "299199033555"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~299199033555"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "2290000",
+                "ctr": 0.090909090909090912,
+                "averageCost": 2290000,
+                "averageCpc": 2290000,
+                "impressions": "11",
+                "interactionRate": 0.090909090909090912
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~343213307909",
+                "qualityInfo": {
+                    "creativeQualityScore": "AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 9
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti kurta"
+                },
+                "criterionId": "343213307909"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~343213307909"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "1",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~366369586735",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti dresses"
+                },
+                "criterionId": "366369586735"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~366369586735"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "2",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~869011425827",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti kurta set"
+                },
+                "criterionId": "869011425827"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~869011425827"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "2",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1024672090248",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti kurta sets"
+                },
+                "criterionId": "1024672090248"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1024672090248"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "5020000",
+                "ctr": 0.33333333333333331,
+                "averageCost": 5020000,
+                "averageCpc": 5020000,
+                "impressions": "3",
+                "interactionRate": 0.33333333333333331
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1297830726623",
+                "qualityInfo": {
+                    "creativeQualityScore": "ABOVE_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 10
+                },
+                "keyword": {
+                    "matchType": "PHRASE",
+                    "text": "rangriti suits"
+                },
+                "criterionId": "1297830726623"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1297830726623"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "3",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1829442126387",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "www rangriti com new arrivals"
+                },
+                "criterionId": "1829442126387"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1829442126387"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "5",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1833850197728",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti kurta set online"
+                },
+                "criterionId": "1833850197728"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1833850197728"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "5",
+                "interactionRate": 0
+            },
+            "adGroupCriterion": {
+                "resourceName": "customers/1335200406/adGroupCriteria/145710103146~1942260335982",
+                "qualityInfo": {
+                    "creativeQualityScore": "BELOW_AVERAGE",
+                    "searchPredictedCtr": "ABOVE_AVERAGE",
+                    "qualityScore": 8
+                },
+                "keyword": {
+                    "matchType": "BROAD",
+                    "text": "rangriti com online"
+                },
+                "criterionId": "1942260335982"
+            },
+            "keywordView": {
+                "resourceName": "customers/1335200406/keywordViews/145710103146~1942260335982"
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        }
+    ],
+    "fieldMask": "adGroup.id,segments.adNetworkType,adGroupCriterion.criterionId,campaign.id,segments.device,segments.slot,adGroupCriterion.qualityInfo.creativeQualityScore,adGroupCriterion.keyword.text,segments.date,adGroupCriterion.keyword.matchType,adGroupCriterion.qualityInfo.qualityScore,metrics.interactionRate,metrics.impressions,metrics.engagementRate,metrics.ctr,metrics.costPerConversion,metrics.costMicros,metrics.conversions,metrics.clicks,metrics.averageCpc,metrics.averageCost,adGroupCriterion.qualityInfo.searchPredictedCtr,metrics.conversionsValue,adGroupCriterion.finalUrls",
+    "requestId": "D0Rq-GmrHEZkB_k8mMCx5g"
+}

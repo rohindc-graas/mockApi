@@ -1,0 +1,247 @@
+{
+    "results": [
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "35",
+                "conversionsValue": 692.071848,
+                "conversions": 0.757752,
+                "costMicros": "115610000",
+                "ctr": 0.64814814814814814,
+                "averageCost": 3303142.8571428573,
+                "averageCpc": 3303142.8571428573,
+                "impressions": "54",
+                "interactionRate": 0.64814814814814814
+            },
+            "adGroupAd": {
+                "resourceName": "customers/1335200406/adGroupAds/145710103146~648420331105",
+                "ad": {
+                    "type": "RESPONSIVE_SEARCH_AD",
+                    "resourceName": "customers/1335200406/ads/648420331105",
+                    "id": "648420331105"
+                }
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "20",
+                "interactionRate": 0
+            },
+            "adGroupAd": {
+                "resourceName": "customers/1335200406/adGroupAds/145710103146~648420331105",
+                "ad": {
+                    "type": "RESPONSIVE_SEARCH_AD",
+                    "resourceName": "customers/1335200406/ads/648420331105",
+                    "id": "648420331105"
+                }
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "0",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "0",
+                "ctr": 0,
+                "impressions": "4",
+                "interactionRate": 0
+            },
+            "adGroupAd": {
+                "resourceName": "customers/1335200406/adGroupAds/145710103146~648420331105",
+                "ad": {
+                    "type": "RESPONSIVE_SEARCH_AD",
+                    "resourceName": "customers/1335200406/ads/648420331105",
+                    "id": "648420331105"
+                }
+            },
+            "segments": {
+                "device": "DESKTOP",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "338",
+                "conversionsValue": 9350.1,
+                "conversions": 6,
+                "costMicros": "1809790000",
+                "ctr": 0.3836549375709421,
+                "averageCost": 5354408.2840236686,
+                "averageCpc": 5354408.2840236686,
+                "impressions": "881",
+                "interactionRate": 0.3836549375709421
+            },
+            "adGroupAd": {
+                "resourceName": "customers/1335200406/adGroupAds/145710103146~648420331105",
+                "ad": {
+                    "type": "RESPONSIVE_SEARCH_AD",
+                    "resourceName": "customers/1335200406/ads/648420331105",
+                    "id": "648420331105"
+                }
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "7",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "53390000",
+                "ctr": 0.07,
+                "averageCost": 7627142.8571428573,
+                "averageCpc": 7627142.8571428573,
+                "impressions": "100",
+                "interactionRate": 0.07
+            },
+            "adGroupAd": {
+                "resourceName": "customers/1335200406/adGroupAds/145710103146~648420331105",
+                "ad": {
+                    "type": "RESPONSIVE_SEARCH_AD",
+                    "resourceName": "customers/1335200406/ads/648420331105",
+                    "id": "648420331105"
+                }
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "2",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "7310000",
+                "ctr": 0.020408163265306121,
+                "averageCost": 3655000,
+                "averageCpc": 3655000,
+                "impressions": "98",
+                "interactionRate": 0.020408163265306121
+            },
+            "adGroupAd": {
+                "resourceName": "customers/1335200406/adGroupAds/145710103146~648420331105",
+                "ad": {
+                    "type": "RESPONSIVE_SEARCH_AD",
+                    "resourceName": "customers/1335200406/ads/648420331105",
+                    "id": "648420331105"
+                }
+            },
+            "segments": {
+                "device": "MOBILE",
+                "adNetworkType": "SEARCH_PARTNERS",
+                "slot": "SEARCH_PARTNER_OTHER",
+                "date": "2023-05-01"
+            }
+        },
+        {
+            "campaign": {
+                "resourceName": "customers/1335200406/campaigns/19699412350",
+                "id": "19699412350"
+            },
+            "adGroup": {
+                "resourceName": "customers/1335200406/adGroups/145710103146",
+                "id": "145710103146"
+            },
+            "metrics": {
+                "clicks": "1",
+                "conversionsValue": 0,
+                "conversions": 0,
+                "costMicros": "16250000",
+                "ctr": 0.25,
+                "averageCost": 16250000,
+                "averageCpc": 16250000,
+                "impressions": "4",
+                "interactionRate": 0.25
+            },
+            "adGroupAd": {
+                "resourceName": "customers/1335200406/adGroupAds/145710103146~648420331105",
+                "ad": {
+                    "type": "RESPONSIVE_SEARCH_AD",
+                    "resourceName": "customers/1335200406/ads/648420331105",
+                    "id": "648420331105"
+                }
+            },
+            "segments": {
+                "device": "TABLET",
+                "adNetworkType": "SEARCH",
+                "slot": "SEARCH_TOP",
+                "date": "2023-05-01"
+            }
+        }
+    ],
+    "fieldMask": "adGroupAd.ad.id,segments.slot,metrics.averageCost,segments.date,adGroupAd.ad.type,campaign.id,metrics.engagementRate,metrics.ctr,metrics.clicks,adGroupAd.ad.displayUrl,segments.device,metrics.conversionsValue,metrics.conversions,adGroup.id,metrics.interactionRate,segments.adNetworkType,metrics.costMicros,metrics.impressions,metrics.averageCpc",
+    "requestId": "tku945y9rWEnllpXTh54sw"
+}
