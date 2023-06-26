@@ -1,0 +1,12 @@
+{
+    "results": [
+        {
+            "customer": {
+                "resourceName": "customers/2386293921",
+                "id": "2386293921",
+                "currencyCode": "INR"
+            }
+        }
+    ],
+    "fieldMask": "customer.id,customer.descriptiveName,customer.currencyCode"
+}
