@@ -1,257 +1,257 @@
 {
     "results": [
-        {
-            "changeEvent": {
-                "resourceName": "customers/1335200406/changeEvents/1686396605669455~0~0",
-                "changeDateTime": "2023-06-10 17:00:05.669455",
-                "changeResourceType": "CAMPAIGN_BUDGET",
-                "changeResourceName": "customers/1335200406/campaignBudgets/12362796225",
-                "clientType": "GOOGLE_ADS_WEB_CLIENT",
-                "userEmail": "sonal.shrivastav@bibaindia.com",
-                "oldResource": {
-                    "campaignBudget": {
-                        "amountMicros": "1800000000"
-                    }
-                },
-                "newResource": {
-                    "campaignBudget": {
-                        "amountMicros": "2250000000"
-                    }
-                },
-                "resourceChangeOperation": "UPDATE",
-                "changedFields": "amountMicros",
-                "campaign": "customers/1335200406/campaigns/19699412350"
+      {
+        "changeEvent": {
+          "resourceName": "customers/1335200406/changeEvents/1686396605669455~0~0",
+          "changeDateTime": "2023-06-10 17:00:05.669455",
+          "changeResourceType": "CAMPAIGN_BUDGET",
+          "changeResourceName": "customers/1335200406/campaignBudgets/12362796225",
+          "clientType": "GOOGLE_ADS_WEB_CLIENT",
+          "userEmail": "sonal.shrivastav@bibaindia.com",
+          "oldResource": {
+            "campaignBudget": {
+              "amountMicros": "1800000000"
             }
-        },
-        {
-            "changeEvent": {
-                "resourceName": "customers/1335200406/changeEvents/1686396737739107~0~0",
-                "changeDateTime": "2023-06-10 17:02:17.739107",
-                "changeResourceType": "AD",
-                "changeResourceName": "customers/1335200406/ads/648420331105",
-                "clientType": "GOOGLE_ADS_WEB_CLIENT",
-                "userEmail": "sonal.shrivastav@bibaindia.com",
-                "oldResource": {
-                    "ad": {
-                        "responsiveSearchAd": {
-                            "headlines": [
-                                {
-                                    "text": "Rangriti"
-                                },
-                                {
-                                    "text": "Buy Kurta Kurtis Online"
-                                },
-                                {
-                                    "text": "Buy Kurta Online"
-                                },
-                                {
-                                    "text": "Buy Kurta"
-                                },
-                                {
-                                    "text": "Kurtis and Knitted Churidars"
-                                },
-                                {
-                                    "text": "Rangriti SS'23 Collection"
-                                },
-                                {
-                                    "text": "Free Shipping | COD Available"
-                                },
-                                {
-                                    "text": "Buy Rangriti suit set online"
-                                },
-                                {
-                                    "text": "Shop Rangriti Kurta Sets"
-                                },
-                                {
-                                    "text": "Best Outfits at best discounts"
-                                },
-                                {
-                                    "text": "Buy Rangriti's ethnic wear"
-                                },
-                                {
-                                    "text": "Official Online Store"
-                                },
-                                {
-                                    "text": "Online Shopping Store"
-                                },
-                                {
-                                    "text": "Use code: NEW500"
-                                },
-                                {
-                                    "text": "Kriti Favourite Styles"
-                                }
-                            ],
-                            "descriptions": [
-                                {
-                                    "text": "Buy Rangriti Kurta, Knitted Churidars and Dupattas online at reasonable prices"
-                                },
-                                {
-                                    "text": "Trusted Online Shopping Store - Buy Kurta | Kurtis and Knitted Churidars."
-                                },
-                                {
-                                    "text": "Choose from a wide range of kurtis, dresses, tops & more. Unique Styles & Quality Dresses."
-                                },
-                                {
-                                    "text": "Buy latest clothing collection online at great discounts on Rangriti."
-                                }
-                            ]
-                        },
-                        "finalUrls": [
-                            "https://www.rangriti.com/"
-                        ]
-                    }
-                },
-                "newResource": {
-                    "ad": {
-                        "responsiveSearchAd": {
-                            "headlines": [
-                                {
-                                    "text": "Rangriti"
-                                },
-                                {
-                                    "text": "Buy Kurta Kurtis Online"
-                                },
-                                {
-                                    "text": "Buy Kurta Online"
-                                },
-                                {
-                                    "text": "Buy Kurta"
-                                },
-                                {
-                                    "text": "Kurtis and Knitted Churidars"
-                                },
-                                {
-                                    "text": "Rangriti SS'23 Collection"
-                                },
-                                {
-                                    "text": "Free Shipping | COD Available"
-                                },
-                                {
-                                    "text": "Buy Rangriti suit set online"
-                                },
-                                {
-                                    "text": "Shop Rangriti Kurta Sets"
-                                },
-                                {
-                                    "text": "Best Outfits at best discounts"
-                                },
-                                {
-                                    "text": "Buy Rangriti's ethnic wear"
-                                },
-                                {
-                                    "text": "Official Online Store"
-                                },
-                                {
-                                    "text": "Online Shopping Store"
-                                },
-                                {
-                                    "text": "Use code: NEW500"
-                                },
-                                {
-                                    "text": "Kriti Favourite Styles"
-                                }
-                            ],
-                            "descriptions": [
-                                {
-                                    "text": "Rangriti End of Season Sale is Live Now! Get Upto 50% Off . Shop Now!"
-                                },
-                                {
-                                    "text": "Trusted Online Shopping Store - Buy Kurta | Kurtis and Knitted Churidars.EOSS is Live"
-                                },
-                                {
-                                    "text": "Choose from a wide range of kurtis, dresses, tops & more. Unique Styles & Quality Dresses. "
-                                },
-                                {
-                                    "text": "Buy latest clothing collection online at great discounts on Rangriti.EOSS is Live Shop Now"
-                                }
-                            ]
-                        },
-                        "finalUrls": [
-                            "https://www.rangriti.com/eoss"
-                        ],
-                        "trackingUrlTemplate": ""
-                    }
-                },
-                "resourceChangeOperation": "UPDATE",
-                "changedFields": "finalUrls,responsiveSearchAd.descriptions,responsiveSearchAd.headlines,trackingUrlTemplate",
-                "campaign": "customers/1335200406/campaigns/19699412350",
-                "adGroup": "customers/1335200406/adGroups/145710103146"
+          },
+          "newResource": {
+            "campaignBudget": {
+              "amountMicros": "2250000000"
             }
-        },
-        {
-            "changeEvent": {
-                "resourceName": "customers/1335200406/changeEvents/1686397037889679~0~0",
-                "changeDateTime": "2023-06-10 17:07:17.889679",
-                "changeResourceType": "ASSET",
-                "changeResourceName": "customers/1335200406/assets/87643977190",
-                "clientType": "INTERNAL_TOOL",
-                "userEmail": "sonal.shrivastav@bibaindia.com",
-                "oldResource": {
-                    "asset": {}
-                },
-                "newResource": {
-                    "asset": {
-                        "resourceName": "customers/1335200406/assets/87643977190",
-                        "id": "87643977190",
-                        "name": "pmax_eoss_upto50_1200x1200.jpg"
-                    }
-                },
-                "resourceChangeOperation": "CREATE",
-                "changedFields": "id,name,resourceName",
-                "asset": "customers/1335200406/assets/87643977190"
-            }
-        },
-        {
-            "changeEvent": {
-                "resourceName": "customers/1335200406/changeEvents/1686397088468136~0~0",
-                "changeDateTime": "2023-06-10 17:08:08.468136",
-                "changeResourceType": "ASSET",
-                "changeResourceName": "customers/1335200406/assets/41507345496",
-                "clientType": "GOOGLE_ADS_WEB_CLIENT",
-                "userEmail": "sonal.shrivastav@bibaindia.com",
-                "oldResource": {
-                    "asset": {}
-                },
-                "newResource": {
-                    "asset": {
-                        "resourceName": "customers/1335200406/assets/41507345496",
-                        "textAsset": {
-                            "text": "End of Season Sale is Live"
-                        },
-                        "id": "41507345496"
-                    }
-                },
-                "resourceChangeOperation": "CREATE",
-                "changedFields": "id,resourceName,textAsset.text",
-                "asset": "customers/1335200406/assets/41507345496"
-            }
-        },
-        {
-            "changeEvent": {
-                "resourceName": "customers/1335200406/changeEvents/1686397088468136~0~1",
-                "changeDateTime": "2023-06-10 17:08:08.468136",
-                "changeResourceType": "ASSET",
-                "changeResourceName": "customers/1335200406/assets/87644010385",
-                "clientType": "GOOGLE_ADS_WEB_CLIENT",
-                "userEmail": "sonal.shrivastav@bibaindia.com",
-                "oldResource": {
-                    "asset": {}
-                },
-                "newResource": {
-                    "asset": {
-                        "resourceName": "customers/1335200406/assets/87644010385",
-                        "textAsset": {
-                            "text": "Shop fresh styles from our exciting EOSS Sale & get Upto 50% off. Limited Time Offer."
-                        },
-                        "id": "87644010385"
-                    }
-                },
-                "resourceChangeOperation": "CREATE",
-                "changedFields": "id,resourceName,textAsset.text",
-                "asset": "customers/1335200406/assets/87644010385"
-            }
+          },
+          "resourceChangeOperation": "UPDATE",
+          "changedFields": "amountMicros",
+          "campaign": "customers/1335200406/campaigns/19699412350"
         }
+      },
+      {
+        "changeEvent": {
+          "resourceName": "customers/1335200406/changeEvents/1686396737739107~0~0",
+          "changeDateTime": "2023-06-10 17:02:17.739107",
+          "changeResourceType": "AD",
+          "changeResourceName": "customers/1335200406/ads/648420331105",
+          "clientType": "GOOGLE_ADS_WEB_CLIENT",
+          "userEmail": "sonal.shrivastav@bibaindia.com",
+          "oldResource": {
+            "ad": {
+              "responsiveSearchAd": {
+                "headlines": [
+                  {
+                    "text": "Rangriti"
+                  },
+                  {
+                    "text": "Buy Kurta Kurtis Online"
+                  },
+                  {
+                    "text": "Buy Kurta Online"
+                  },
+                  {
+                    "text": "Buy Kurta"
+                  },
+                  {
+                    "text": "Kurtis and Knitted Churidars"
+                  },
+                  {
+                    "text": "Rangriti SS'23 Collection"
+                  },
+                  {
+                    "text": "Free Shipping | COD Available"
+                  },
+                  {
+                    "text": "Buy Rangriti suit set online"
+                  },
+                  {
+                    "text": "Shop Rangriti Kurta Sets"
+                  },
+                  {
+                    "text": "Best Outfits at best discounts"
+                  },
+                  {
+                    "text": "Buy Rangriti's ethnic wear"
+                  },
+                  {
+                    "text": "Official Online Store"
+                  },
+                  {
+                    "text": "Online Shopping Store"
+                  },
+                  {
+                    "text": "Use code: NEW500"
+                  },
+                  {
+                    "text": "Kriti Favourite Styles"
+                  }
+                ],
+                "descriptions": [
+                  {
+                    "text": "Buy Rangriti Kurta, Knitted Churidars and Dupattas online at reasonable prices"
+                  },
+                  {
+                    "text": "Trusted Online Shopping Store - Buy Kurta | Kurtis and Knitted Churidars."
+                  },
+                  {
+                    "text": "Choose from a wide range of kurtis, dresses, tops & more. Unique Styles & Quality Dresses."
+                  },
+                  {
+                    "text": "Buy latest clothing collection online at great discounts on Rangriti."
+                  }
+                ]
+              },
+              "finalUrls": [
+                "https://www.rangriti.com/"
+              ]
+            }
+          },
+          "newResource": {
+            "ad": {
+              "responsiveSearchAd": {
+                "headlines": [
+                  {
+                    "text": "Rangriti"
+                  },
+                  {
+                    "text": "Buy Kurta Kurtis Online"
+                  },
+                  {
+                    "text": "Buy Kurta Online"
+                  },
+                  {
+                    "text": "Buy Kurta"
+                  },
+                  {
+                    "text": "Kurtis and Knitted Churidars"
+                  },
+                  {
+                    "text": "Rangriti SS'23 Collection"
+                  },
+                  {
+                    "text": "Free Shipping | COD Available"
+                  },
+                  {
+                    "text": "Buy Rangriti suit set online"
+                  },
+                  {
+                    "text": "Shop Rangriti Kurta Sets"
+                  },
+                  {
+                    "text": "Best Outfits at best discounts"
+                  },
+                  {
+                    "text": "Buy Rangriti's ethnic wear"
+                  },
+                  {
+                    "text": "Official Online Store"
+                  },
+                  {
+                    "text": "Online Shopping Store"
+                  },
+                  {
+                    "text": "Use code: NEW500"
+                  },
+                  {
+                    "text": "Kriti Favourite Styles"
+                  }
+                ],
+                "descriptions": [
+                  {
+                    "text": "Rangriti End of Season Sale is Live Now! Get Upto 50% Off . Shop Now!"
+                  },
+                  {
+                    "text": "Trusted Online Shopping Store - Buy Kurta | Kurtis and Knitted Churidars.EOSS is Live"
+                  },
+                  {
+                    "text": "Choose from a wide range of kurtis, dresses, tops & more. Unique Styles & Quality Dresses. "
+                  },
+                  {
+                    "text": "Buy latest clothing collection online at great discounts on Rangriti.EOSS is Live Shop Now"
+                  }
+                ]
+              },
+              "finalUrls": [
+                "https://www.rangriti.com/eoss"
+              ],
+              "trackingUrlTemplate": ""
+            }
+          },
+          "resourceChangeOperation": "UPDATE",
+          "changedFields": "finalUrls,responsiveSearchAd.descriptions,responsiveSearchAd.headlines,trackingUrlTemplate",
+          "campaign": "customers/1335200406/campaigns/19699412350",
+          "adGroup": "customers/1335200406/adGroups/145710103146"
+        }
+      },
+      {
+        "changeEvent": {
+          "resourceName": "customers/1335200406/changeEvents/1686397037889679~0~0",
+          "changeDateTime": "2023-06-10 17:07:17.889679",
+          "changeResourceType": "ASSET",
+          "changeResourceName": "customers/1335200406/assets/87643977190",
+          "clientType": "INTERNAL_TOOL",
+          "userEmail": "sonal.shrivastav@bibaindia.com",
+          "oldResource": {
+            "asset": {}
+          },
+          "newResource": {
+            "asset": {
+              "resourceName": "customers/1335200406/assets/87643977190",
+              "id": "87643977190",
+              "name": "pmax_eoss_upto50_1200x1200.jpg"
+            }
+          },
+          "resourceChangeOperation": "CREATE",
+          "changedFields": "id,name,resourceName",
+          "asset": "customers/1335200406/assets/87643977190"
+        }
+      },
+      {
+        "changeEvent": {
+          "resourceName": "customers/1335200406/changeEvents/1686397088468136~0~0",
+          "changeDateTime": "2023-06-10 17:08:08.468136",
+          "changeResourceType": "ASSET",
+          "changeResourceName": "customers/1335200406/assets/41507345496",
+          "clientType": "GOOGLE_ADS_WEB_CLIENT",
+          "userEmail": "sonal.shrivastav@bibaindia.com",
+          "oldResource": {
+            "asset": {}
+          },
+          "newResource": {
+            "asset": {
+              "resourceName": "customers/1335200406/assets/41507345496",
+              "textAsset": {
+                "text": "End of Season Sale is Live"
+              },
+              "id": "41507345496"
+            }
+          },
+          "resourceChangeOperation": "CREATE",
+          "changedFields": "id,resourceName,textAsset.text",
+          "asset": "customers/1335200406/assets/41507345496"
+        }
+      },
+      {
+        "changeEvent": {
+          "resourceName": "customers/1335200406/changeEvents/1686397088468136~0~1",
+          "changeDateTime": "2023-06-10 17:08:08.468136",
+          "changeResourceType": "ASSET",
+          "changeResourceName": "customers/1335200406/assets/87644010385",
+          "clientType": "GOOGLE_ADS_WEB_CLIENT",
+          "userEmail": "sonal.shrivastav@bibaindia.com",
+          "oldResource": {
+            "asset": {}
+          },
+          "newResource": {
+            "asset": {
+              "resourceName": "customers/1335200406/assets/87644010385",
+              "textAsset": {
+                "text": "Shop fresh styles from our exciting EOSS Sale & get Upto 50% off. Limited Time Offer."
+              },
+              "id": "87644010385"
+            }
+          },
+          "resourceChangeOperation": "CREATE",
+          "changedFields": "id,resourceName,textAsset.text",
+          "asset": "customers/1335200406/assets/87644010385"
+        }
+      }
     ],
-    "fieldMask": "changeEvent.adGroup,changeEvent.asset,changeEvent.campaign,changeEvent.changeDateTime,changeEvent.changeResourceName,changeEvent.changeResourceType,changeEvent.changedFields,changeEvent.clientType,changeEvent.feed,changeEvent.feedItem,changeEvent.newResource,changeEvent.oldResource,changeEvent.resourceChangeOperation,changeEvent.resourceName,changeEvent.userEmail",
-    "requestId": "KzCmNmyyXL7jqeEBS8XrZg"
-}
+    "fieldMask": "changeEvent.adGroup,changeEvent.asset,changeEvent.campaign,changeEvent.changeDateTime,changeEvent.changeResourceName,changeEvent.changeResourceType,changeEvent.changedFields,changeEvent.clientType,changeEvent.feed,changeEvent.feedItem,changeEvent.newResource,changeEvent.oldResource,changeEvent.resourceChangeOperation,changeEvent.resourceName,changeEvent.userEmail"
+  }
+  

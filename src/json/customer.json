@@ -1,12 +1,14 @@
 {
     "results": [
-        {
-            "customer": {
-                "resourceName": "customers/2386293921",
-                "id": "2386293921",
-                "currencyCode": "INR"
-            }
+      {
+        "customer": {
+          "resourceName": "customers/1335200406",
+          "id": "1335200406",
+          "descriptiveName": "Rangriti",
+          "currencyCode": "INR"
         }
+      }
     ],
     "fieldMask": "customer.id,customer.descriptiveName,customer.currencyCode"
-}
+  }
+  
