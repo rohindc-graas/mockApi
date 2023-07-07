@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({ extended: true })); // Parse URL-encoded bodies
 app.post('/v14/customers/:customerId/googleAds:search', async (req, res) => {
     let response = {}
     const customerId = req.params.customerId;
-    if (customerId == "2386293921") {
+    if (customerId == "2762446286") {
         response = await getGoogleAdsData(req, res);
         res.status(200).send(response);
     } else {
